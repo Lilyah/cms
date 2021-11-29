@@ -18,6 +18,7 @@
 
 ## Technologies Used
 - Laravel - [version 5.8](https://laravel.com/docs/5.8)
+- Composer - [version 2.1.5](https://getcomposer.org/)
 - Bootstrap - [version *](http://getbootstrap.com)
 - MySQL DB
 
